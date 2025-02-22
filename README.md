@@ -1,8 +1,8 @@
-# 📰 Real-time News Web App
+# 📰 InsightStream News Web App
 
 Welcome to the Real-time News Web App! This application provides users with the latest news updates in real-time across various topics. It's built with a combination of frontend and backend technologies to deliver a seamless news browsing experience.
 
-![Real-time News Web App Demo](Newzify.png)
+
 
 ## Technologies Used
 
@@ -42,12 +42,5 @@ To run the Real-time News Web App locally, follow these steps:
 4. For the backend, obtain the backend files from the provided Google Drive link and set up the Node.js server.
 5. Ensure MongoDB is installed and configured for database management.
 
-## Contributing
 
-Contributions to the Real-time News Web App are welcome and encouraged! If you have any suggestions, enhancements, or bug fixes, feel free to open an issue or create a pull request. Together, let's make the app even better!
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-Let's stay connected! Connect with me on [LinkedIn](https://www.linkedin.com/in/mangesh-yadav-65a437237/) for more updates and collaborations.
