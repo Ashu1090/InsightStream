@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Category({ setCategory, isLoggedIn }) {
+function Category({ setCategory }) {
   // Shared button styles
   const buttonStyle = {
     borderRadius: '2rem',
@@ -54,7 +54,7 @@ function Category({ setCategory, isLoggedIn }) {
           key={category}
           type="button"
           style={buttonStyle}
-          className={`btn btn-outline-dark ${isLoggedIn ? '' : 'disabled'} mt-1`}
+          className="btn btn-outline-dark mt-1"
           onMouseOver={handleMouseOver}
           onMouseOut={handleMouseOut}
           onClick={() => handleCategoryChange(category)}
