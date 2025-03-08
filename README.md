@@ -1,8 +1,8 @@
-#  InsightStream News Web App
+#  InsightStream News web App
 
 Welcome to the Real-time News Web App! This application provides users with the latest news updates in real-time across various topics. It's built with a combination of frontend and backend technologies to deliver a seamless news browsing experience.
 
-# InsightStream - News Application
+
 
 ## Introduction
 
