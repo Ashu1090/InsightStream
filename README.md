@@ -115,12 +115,11 @@ This will launch the application at [http://localhost:5173/](http://localhost:51
 ## User Interface
 
 ### Screenshots
-To add screenshots to your GitHub README, follow these steps:
-1. Place your screenshots inside the `assets/` folder.
-2. Add the images in your README using Markdown syntax:
+
    ```md
-   ![Homepage Screenshot](assets/homepage.png)
-   ![Subscription Page](assets/subscribe.png)
+   ![Homepage ](assets/Screenshot(140).png)
+   ![About Page ](assets/Screenshot(141).png)
+   ![Subscription Page](assets/Screenshot(142).png)
    ```
 
 ## Styling
