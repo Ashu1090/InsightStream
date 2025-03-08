@@ -21,7 +21,7 @@ function Navbar(props) {
        paddingLeft:'1rem'
       }}>
       <div className="container-fluid">
-        <Link className="navbar-brand mx-4" href="#"><h5></h5></Link>
+        <Link className="navbar-brand mx-4" href="#"><h5>InsigtStream</h5></Link>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span className="navbar-toggler-icon"></span>
         </button>
@@ -44,15 +44,7 @@ function Navbar(props) {
             </li>
             <li>
               <div className="btn-group p-1">
-                {!props.isLoggedIn ? (
-                  <button type="button" className="btn btn-outline-dark dropdown-toggle disabled mx-2" data-bs-toggle="dropdown" aria-expanded="false">
-                    {defaultCountry}
-                  </button>
-                ) : (
-                  <button type="button" className="btn btn-outline-dark dropdown-toggle " data-bs-toggle="dropdown" aria-expanded="false">
-                    {defaultCountry}
-                  </button>
-                )}
+                
                 <ul className="dropdown-menu ">
                   <li><Link className="dropdown-item" onClick={() => toggleCountry('in', 'India')}>India</Link></li>
                   <li><Link className="dropdown-item" onClick={() => toggleCountry('us', 'USA')}>USA</Link></li>
