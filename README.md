@@ -117,9 +117,9 @@ This will launch the application at [http://localhost:5173/](http://localhost:51
 ### Screenshots
 
    ```md
-   ![Homepage ](assets/Screenshot(140).png)
-   ![About Page ](assets/Screenshot(141).png)
-   ![Subscription Page](assets/Screenshot(142).png)
+   ![Homepage ](assets/Screenshot_140.png)
+   ![About Page ](assets/Screenshot_141.png)
+   ![Subscription Page](assets/Screenshot_142.png)
    ```
 
 ## Styling
