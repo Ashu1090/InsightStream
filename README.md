@@ -7,9 +7,6 @@ Welcome to the Real-time News Web App! This application provides users with the 
 ## Introduction
 
 **Project Title:** InsightStream  
-**Team Members:**  
-- **Team Leader:** MOHAMMED ASHIQ M U  
-- **Team Members:** AJITH G, PUGAZHENTHI M, SANTHOSH V, YOKESH V  
 
 ## Project Overview
 
